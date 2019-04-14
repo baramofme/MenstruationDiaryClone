@@ -131,17 +131,21 @@
   border-top: dotted 3px;
 }
 
+.circle {
+  padding: 7px;
+  border-radius: 50%;
+  background-color: #bbb;
+}
+
+.tip .sub-title {
+  white-space: unset;
+}
+
 .home {
 }
 
 .calendar {
   /* border-bottom: 3px dotted; */
-}
-
-.circle {
-  padding: 7px;
-  border-radius: 50%;
-  background-color: #bbb;
 }
 
 .memo {
@@ -151,9 +155,5 @@
 }
 
 .tip {
-}
-
-.tip .sub-title {
-  white-space: unset;
 }
 </style>
