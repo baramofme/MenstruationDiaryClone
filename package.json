@@ -1,0 +1,13 @@
+{
+  "name": "menstruationdiaryclone",
+  "version": "1.0.0",
+  "description": "Vanilla Vue.js + vuetify  period diary clone.",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/4jk8n0p9p0",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "latest",
+    "vue-router": "latest",
+    "vuetify": "latest"
+  }
+}
