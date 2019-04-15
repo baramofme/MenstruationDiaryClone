@@ -9,8 +9,8 @@
 </template>
 
 <script>
-import TopToolbar from "./components/TopToolbar.vue";
-import BottomNav from "./components/BottomNav.vue";
+import TopToolbar from "./src/components/layout/TopToolbar.vue";
+import BottomNav from "./src/components/layout/BottomNav.vue";
 
 export default {
   components: {
@@ -23,5 +23,6 @@ export default {
 .container {
   /* padding-top: 100px; */
   padding: 0px;
+  width: 600px;
 }
 </style>

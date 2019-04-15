@@ -1,9 +1,9 @@
 import Vue from "vue";
 import Router from "vue-router";
 
-import Home from "../views/Home";
-import CodeExamples from "../views/CodeExamples";
-import MyFavorites from "../views/MyFavorites";
+import Home from "../src/views/Home";
+import CodeExamples from "../src/views/CodeExamples";
+import MyFavorites from "../src/views/MyFavorites";
 
 Vue.use(Router);
 
